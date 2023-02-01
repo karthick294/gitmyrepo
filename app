@@ -7,3 +7,5 @@ This is commit from confilict branch
 First Commit
 
 Second Commit
+
+third commit
